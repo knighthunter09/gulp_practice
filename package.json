@@ -1,0 +1,9 @@
+{
+  "Name": "hello-gulp",
+  "Version": "0.0.1",
+  "Description": "My super Cool Build Stack",
+  "Author": "Shekhar Suman",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
